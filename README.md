@@ -19,7 +19,7 @@
 
 ## 安装
 
-1. 去 [Releases 页](../../releases) 下载最新的 `wallet-convergence-alert-v*.zip` 解压
+1. 去 [Releases 页](../../releases) 下载最新的 `wallet-convergence-alert-v*.zip` 解压出来
 2. Chrome 地址栏 `chrome://extensions/` → 开启「**开发者模式**」
 3. 点「**加载已解压的扩展程序**」选解压后的目录
 4. 打开任意 [pro.xxyy.io](https://pro.xxyy.io) 或 [gmgn.ai](https://gmgn.ai) 页面
